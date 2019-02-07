@@ -3,3 +3,7 @@
   float:left;
 
 }
+.column{
+  float: right;
+  width: 30%;
+}
