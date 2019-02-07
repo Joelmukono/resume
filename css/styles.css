@@ -1,9 +1,24 @@
 .sidebar{
   width:30%;
   float:left;
+  padding:10px;
+  border:10px;
+  margin:10px;
+  background-color:grey;
 
 }
 .column{
   float: right;
   width: 30%;
+  padding:10px;
+  border:6px;
+  margin:8px;
+  background-color: grey;
+}
+
+.row{
+  padding:5px;
+  border:7px;
+  margin:8px;
+  
 }
